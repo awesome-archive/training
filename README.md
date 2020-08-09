@@ -32,6 +32,13 @@ Learning basic [Golang](https://golang.org/) in one day
 * [example27](./example27-how-to-load-env): How to loads environment variables from `.env`.
 * [example28](./example28-webserver-with-gracefull-shutdown): Go webserver with gracefull shutdown.
 * [example29](./example29-handle-multiple-channel): How to handle multiple Go channel?
+* [example30](./example30-context-timeout): Simplest Way to Handle Timeouts?
+* [example31](./example31-job-queue): How to implements a simple job queue? [Youtube](https://www.youtube.com/watch?v=wvdbobFiXNg)
+* [example32](./example32-what-is-select): four tips with `select` in golang.
+* [example33](./example33-share-memory-by-communicating): share memory by communicating.
+* [example34](./example34-graceful-shutdown-with-worker): graceful shutdown with multiple workers.
+* [example35](./example35-goroutine-with-context): introduction to context package.
+* [example36](./example36-performance): performance result with differnet concat string method.
 
 [1]:https://github.com/golang/lint
 [2]:https://golang.org/cmd/gofmt/
